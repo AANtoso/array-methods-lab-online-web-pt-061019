@@ -26,3 +26,11 @@ def using_size(array)
   cute_dogs = ["wow", "I", "am", "really", "learning", "arrays!"]
   cute_dogs.size
 end
+
+cute_dogs = ["wow", "I", "am", "really", "learning", "arrays!"]
+
+cute_cats = ["Milo", "Rosie", "Zorro", "Ford"]
+
+using_first(cute_cats)
+
+
