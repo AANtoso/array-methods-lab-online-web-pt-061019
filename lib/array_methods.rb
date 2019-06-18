@@ -13,7 +13,7 @@ def using_reverse(array)
 end
 
 def using_first(my_array)
-  cute_dogs = ["wow", "I", "am", "really", "learning", "arrays!"]
+  
   my_array.first
 end
 
@@ -32,4 +32,4 @@ cute_dogs = ["wow", "I", "am", "really", "learning", "arrays!"]
 cute_cats = ["Milo", "Rosie", "Zorro", "Ford"]
 
 puts using_first(cute_cats)
-
+puts using_first(cute_dogs)
