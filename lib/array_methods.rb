@@ -31,6 +31,5 @@ cute_dogs = ["wow", "I", "am", "really", "learning", "arrays!"]
 
 cute_cats = ["Milo", "Rosie", "Zorro", "Ford"]
 
-using_first(cute_cats)
-
+puts using_first(cute_cats)
 
